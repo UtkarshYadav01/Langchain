@@ -1,0 +1,55 @@
+{
+  "themes": [
+    [
+      "vendors",
+      2
+    ],
+    [
+      "must",
+      2
+    ],
+    [
+      "compliance",
+      2
+    ],
+    [
+      "this",
+      1
+    ],
+    [
+      "rfp",
+      1
+    ],
+    [
+      "invites",
+      1
+    ],
+    [
+      "for",
+      1
+    ],
+    [
+      "pharmacy",
+      1
+    ],
+    [
+      "benefit",
+      1
+    ],
+    [
+      "management",
+      1
+    ]
+  ],
+  "questions": [
+    "Describe your claims adjudication process?",
+    "How do you ensure GDPR compliance?"
+  ],
+  "compliance_points": [
+    "HIPAA",
+    "FDA",
+    "GDPR",
+    "Security",
+    "Compliance"
+  ]
+}

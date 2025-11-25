@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "Issuer": "HealthFirst Insurance",
+    "RFP_No": "HF-PBM-2025-001"
+  },
+  "sections": {
+    "Section 1: Introduction": "This RFP invites vendors for Pharmacy Benefit Management services.",
+    "Section 2: Requirements": "Vendors must comply with HIPAA and FDA regulations.\nDescribe your claims adjudication process?\nHow do you ensure GDPR compliance?",
+    "Section 3: Submission": "All proposals must be submitted by the due date.\nInclude security compliance details."
+  },
+  "questions": [
+    "Describe your claims adjudication process?",
+    "How do you ensure GDPR compliance?"
+  ],
+  "compliance_points": [
+    "HIPAA",
+    "FDA",
+    "GDPR",
+    "Security",
+    "Compliance"
+  ]
+}
